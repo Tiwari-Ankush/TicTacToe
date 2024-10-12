@@ -1,1 +1,2 @@
-https://tiwaribro.github.io/TicTacToe/
+checkout deployed version below:
+https://tiwari-ankush.github.io/TicTacToe/
